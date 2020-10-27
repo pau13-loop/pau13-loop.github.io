@@ -1,4 +1,4 @@
-#Porque empecé a estudiar informática?
+# Porque empecé a estudiar informática?
 
 Bueno... Por donde debería empezar? Debería contarlo todo? Probablemente estas dos preguntas podrían provocar efectos adversos a los deseados, una respuesta demasiado extensa como para poder mantener el interés en la lectura y una opinión equivocada sobre el autor de este texto. 
 **Empezaré desde la primera muestra de interés** que mostré en la informática o programación sin yo saberlo. *A los cinco años* me regalaron mi primera videoconsola, la Play Station 2, creo que hasta la fecha de hoy ha sido uno de los mejores regalos que me han hecho, aunque mis padres no pensaran lo mismo en ese momento. Aquel día mi sueño de ser astronauta se empezó a desvanecer y cobraba fuerza la idea de poder probar videojuegos y examinarlos, al mismo tiempo que yo también podría crear los míos propios. Aunque paso mucho tiempo y aparecieron otros intereses. 
@@ -15,4 +15,4 @@ empecé a hacer una lista de todos los conocimientos que me gustaría adquirir y
 
 Poco después empezó la cuarentena, las cosas volvieron a cambiar, a finales de Junio volvía a Mallorca con la idea de estudiar y con ello tenía la esperanza de poder construirme la vida a la que aspiro, *que aunque tampoco sea cara no significa que sea barata*. Al principio me debatí entre hacer la carrera o el fp, pero al necesitar una via de sustento y admitir que no tenía conocimientos sobre programación o matemáticas decidí inscribirme en el Dual. Este es un resumen de porqué acabé matriculándome en este curso y aunque creo haberme extendido un poco más de lo necesario espero no haberos aburrido y que ahora me conozcáis un poco mejor. Para cualquier duda me invitáis a un café después de febrero.
 
-![Imagen Pau](../img/logo.jpg)
+![Imagen Pau](./img/logo.jpg)
